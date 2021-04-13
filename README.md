@@ -1,4 +1,4 @@
-# Zimbambwe Interactive Html, SVG & JS Map
+# Zimbambwe Interactive Html, SVG & JS Map written in Vue.js 3
 
 # Can be used for data visualization
 
